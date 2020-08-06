@@ -1091,3 +1091,7 @@ h4 {
 blockquote>p {
     font-size: large;
 }
+
+h1 {
+    font-size: x-large !important;
+}
