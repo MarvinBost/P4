@@ -1083,3 +1083,11 @@ h4 {
         text-align: center;
     }
 }
+
+.row.row-no-gutters.social {
+    padding: 2rem 0;
+}
+
+blockquote>p {
+    font-size: large;
+}
