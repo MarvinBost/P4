@@ -26,6 +26,14 @@
     vertical-align: -15%
 }
 
+.fa-2x {
+    font-size: 2em
+}
+
+.fa-3x {
+    font-size: 3em
+}
+
 .fa-ul {
     padding-left: 0;
     margin-left: 2.14285714em;
