@@ -1076,10 +1076,6 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-
-    .icon-md {
-        font-size: 4rem !important;
-    }
 }
 
 @media (max-width: 767px) {
